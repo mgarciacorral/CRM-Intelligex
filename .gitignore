@@ -1,0 +1,6 @@
+node_modules/
+.mail.env
+.password_hash
+data/*
+!data/.gitkeep
+npm-debug.log*
